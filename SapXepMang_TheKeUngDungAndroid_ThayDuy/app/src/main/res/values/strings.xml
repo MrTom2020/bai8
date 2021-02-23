@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SapXepDaySo_ThietKeUngDung</string>
+    <string name="cgt">Chọn giải thuật</string>
+    <string name="ss">Selection Sort</string>
+    <string name="is">Insert Sort</string>
+    <string name="bs">Bubble Sort</string>
+    <string name="ics">Interchange Sort</string>
+    <string name="bis">Binary Inserlon Sort</string>
+    <string name="gtnc">Giải thuật nâng cao</string>
+    <string name="qs">Quick Sort</string>
+    <string name="hs">Heap Sort</string>
+    <string name="fs">FlashSort</string>
+    <string name="d">Đóng</string>
+    <string name="dsstgt">Dãy số sắp xếp theo giải thuật :</string>
+    <string name="xhnds">Xin hãy nhập dãy số</string>
+    <string name="kqss">Kết quả sắp xếp :</string>
+    <string name="dskq">Danh sách kết quả</string>
+    <string name="sx">Sắp xếp</string>
+    <string name="dscsx">Dãy số cần sắp xếp</string>
+    <string name="nds">Nhập dãy số</string>
+    <string name="xn">Xác nhận</string>
+    <string name="dy">Ok</string>
+
+
+</resources>
