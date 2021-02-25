@@ -150,7 +150,10 @@ public class MainActivity extends AppCompatActivity {
             s= new HeapSort();
             s.Sort(args,n,dayso);
         }
-        if(id == 7){
+        if(id == 7)
+        {
+            s = new HeapSort();
+            s.Sort(args,n,dayso);
 
         }
         for(int i=0;i<n;i++){
